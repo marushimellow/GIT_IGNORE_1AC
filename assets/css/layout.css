@@ -1,0 +1,19 @@
+.player {
+ height: 100px;
+ width: 100px;
+ border-radius: 50% gray
+ border: 5px solid gray;
+ text-align: middle;
+}
+
+.player1:before {
+conent:"player1";
+}
+
+.player1 {
+top: 100px;
+left: 100px;
+position: absolute
+}
+
+

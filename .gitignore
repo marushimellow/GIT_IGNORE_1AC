@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# mga files na hindi ia-upload
+/.idea/
+/database/
+custom_file_na_hindi_dapat_ma_upload
